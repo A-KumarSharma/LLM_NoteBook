@@ -7,6 +7,9 @@ Instead of using embeddings or a vector database, this project performs **keywor
 Perfect for personal notebooks, PDFs, research papers, and documentation without requiring heavy dependencies or cloud APIs.
 
 ---
+## DEMO 
+<img width="1920" height="1080" alt="screenshot-2026-07-26_10-50-05" src="https://github.com/user-attachments/assets/83097b91-38d8-4b30-b04a-c07691c0cad7" />
+
 
 ## Features
 
