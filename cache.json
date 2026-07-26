@@ -1,0 +1,80 @@
+[
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 1,
+    "text": "Artificial\nIntelligence\nwww.codsoft.in\ncontact@codsoft.in",
+    "preview": "Artificial\nIntelligence\nwww.codsoft.in\ncontact@codsoft.in"
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 2,
+    "text": "ABOUT US\nCodSoft is an innovative tech education and software\ndevelopment platform designed to empower aspiring\ndevelopers. Our goal is to transform theoretical knowledge\ninto practical expertise.\nThrough our virtual internships, AI-driven career tools, and\nproject-based learning curriculums, we provide a holistic\necosystem for growth. Whether you are building your first\nReact app or optimizing a complex backend service, we are\nhere to support your journey.\nWe believe that the tech industry thrives on continuous\nlearning. That is why CodSoft AI was created—to act as your\nround-the-clock mentor, resume reviewer, and technical\nguide.\nwww.codsoft.in",
+    "preview": "ABOUT US\nCodSoft is an innovative tech education and software\ndevelopment platform designed to empower aspiring\ndevelopers. Our goal is to transform theoretical knowledge\ninto practical expertise.\nThrough our virtual internships, AI-driven career tools, and\nproject-based learning curriculums, we pro"
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 3,
+    "text": "INSTRUCTIONS\nUpdate your LinkedIn profiles\nFor the  Artificial Intelligence internship, you will need to complete at least 3 tasks\nfor successful completion of the internship.\n \nMaintain a separate GitHub repository(name as CODSOFT_TASKSNO  for all the\ntasks and share the link of the GitHub repo in the task submission form, it will be\ngiven later through email).\nPost a video explanation of your project on LinkedIn with GitHub repo link.\nYou can refer to online resources such as Google Search and read tutorials. Watch\nvideos(For Help).",
+    "preview": "INSTRUCTIONS\nUpdate your LinkedIn profiles\nFor the  Artificial Intelligence internship, you will need to complete at least 3 tasks\nfor successful completion of the internship.\n \nMaintain a separate GitHub repository(name as CODSOFT_TASKSNO  for all the\ntasks and share the link of the GitHub repo in "
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 4,
+    "text": "SUBMISSION \nA TASK SUBMISSION FORM will be shared later through email. Till then please continue your task.\n A video need to be created to showcase your work, a demo of your effort.\nFor the Artificial Intelligence internship, you will need to complete at least 3 tasks for successful\ncompletion of the internship.\nThe video can be hosted on LinkedIn for proof of your work and to build credibility among your peers.\nYou can tag @CODSOFT in such posts.\nPlease add #codsoft in each of your task video postings on LinkedIn, Additionally, you can also add\nhashtags such as #internship #webdevelopment. for more reach and visibility",
+    "preview": "SUBMISSION \nA TASK SUBMISSION FORM will be shared later through email. Till then please continue your task.\n A video need to be created to showcase your work, a demo of your effort.\nFor the Artificial Intelligence internship, you will need to complete at least 3 tasks for successful\ncompletion of th"
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 5,
+    "text": "ABOUT THE INTERNSHIP\nAccelerate Your Growth with\nOur Career Tools\nResume Builder\nCheck ATS Score\nAI Interview Coach\nCareer Roadmap Generator\nPortfolio Builder\nBook 1-on-1 Session\nInterview Prep\nCodSoftAI\nwww.codsoft.in\nCOMPLETION \nCERTIFICATE\nPLACEMENT \nSUPPORT\nPLACEMENT \nPLACEMENT \nSUPPORT\nSUPPORT\nCAREER\nTOOLS\nCAREER\nTOOLS\nCAREER\nTOOLS\nNETWORK\n OPPORTUNITY\nNETWORK\nNETWORK\n OPPORTUNITY\n OPPORTUNITY",
+    "preview": "ABOUT THE INTERNSHIP\nAccelerate Your Growth with\nOur Career Tools\nResume Builder\nCheck ATS Score\nAI Interview Coach\nCareer Roadmap Generator\nPortfolio Builder\nBook 1-on-1 Session\nInterview Prep\nCodSoftAI\nwww.codsoft.in\nCOMPLETION \nCERTIFICATE\nPLACEMENT \nSUPPORT\nPLACEMENT \nPLACEMENT \nSUPPORT\nSUPPORT\n"
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 6,
+    "text": "Artificial\nIntelligence\nFor the Artificial Intelligence internship, you will need to complete at\nleast 3 tasks for successful completion of the internship.",
+    "preview": "Artificial\nIntelligence\nFor the Artificial Intelligence internship, you will need to complete at\nleast 3 tasks for successful completion of the internship."
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 7,
+    "text": "TASK 1\nCHATBOT WITH RULE-BASED\nRESPONSES\nBuild a simple chatbot that responds to user inputs based on\npredefined rules. Use if-else statements or pattern matching\ntechniques to identify user queries and provide appropriate\nresponses. This will give you a basic understanding of natural\nlanguage processing and conversation flow.",
+    "preview": "TASK 1\nCHATBOT WITH RULE-BASED\nRESPONSES\nBuild a simple chatbot that responds to user inputs based on\npredefined rules. Use if-else statements or pattern matching\ntechniques to identify user queries and provide appropriate\nresponses. This will give you a basic understanding of natural\nlanguage proce"
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 8,
+    "text": "TASK 2\nTIC-TAC-TOE AI\nImplement an AI agent that plays the classic game of Tic-Tac-Toe\nagainst a human player. You can use algorithms like Minimax with\nor without Alpha-Beta Pruning to make the AI player unbeatable.\nThis project will help you understand game theory and basic search\nalgorithms.",
+    "preview": "TASK 2\nTIC-TAC-TOE AI\nImplement an AI agent that plays the classic game of Tic-Tac-Toe\nagainst a human player. You can use algorithms like Minimax with\nor without Alpha-Beta Pruning to make the AI player unbeatable.\nThis project will help you understand game theory and basic search\nalgorithms."
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 9,
+    "text": "TASK 3\nIMAGE CAPTIONING\nCombine computer vision and natural language processing to build\nan image captioning AI. Use pre-trained image recognition models\nlike VGG or ResNet to extract features from images, and then use a\nrecurrent neural network (RNN) or transformer-based model to\ngenerate captions for those images.",
+    "preview": "TASK 3\nIMAGE CAPTIONING\nCombine computer vision and natural language processing to build\nan image captioning AI. Use pre-trained image recognition models\nlike VGG or ResNet to extract features from images, and then use a\nrecurrent neural network (RNN) or transformer-based model to\ngenerate captions "
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 10,
+    "text": "TASK 4\nRECOMMENDATION SYSTEM\nCreate a simple recommendation system that suggests items to\nusers based on their preferences. You can use techniques like\ncollaborative filtering or content-based filtering to recommend\nmovies, books, or products to users.",
+    "preview": "TASK 4\nRECOMMENDATION SYSTEM\nCreate a simple recommendation system that suggests items to\nusers based on their preferences. You can use techniques like\ncollaborative filtering or content-based filtering to recommend\nmovies, books, or products to users."
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 11,
+    "text": "TASK 5\nFACE DETECTION AND\nRECOGNITION\nDevelop an AI application that can detect and recognize faces in\nimages or videos. Use pre-trained face detection models like Haar\ncascades or deep learning-based face detectors, and optionally\nadd face recognition capabilities using techniques like Siamese\nnetworks or ArcFace.",
+    "preview": "TASK 5\nFACE DETECTION AND\nRECOGNITION\nDevelop an AI application that can detect and recognize faces in\nimages or videos. Use pre-trained face detection models like Haar\ncascades or deep learning-based face detectors, and optionally\nadd face recognition capabilities using techniques like Siamese\nnetw"
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 12,
+    "text": "ASK US FOR HELP!\nTHE PURPOSE OF THIS INTERNSHIP IS TO LEARN AND GROW.\n WE HAVE NO DESIRE TO DICTATE TO YOU. IT IS ENTIRELY UP TO YOU\nWHETHER YOU SEEK GUIDANCE OR NOT.\n THE GIVEN TASKS MAY SEEM VERY EASY OR VERY DIFFICULT. WE\nEXPECT YOU TO APPROACH THE TASKS WITH PROFESSIONAL\nDILIGENCE AND GIVE THEM THE ATTENTION THEY DESERVE.\"\nCOMPLETION \nCERTIFICATE\nPLACEMENT \nSUPPORT\nPLACEMENT \nPLACEMENT \nSUPPORT\nSUPPORT\nNETWORK\n OPPORTUNITY\nNETWORK\nNETWORK\n OPPORTUNITY\n OPPORTUNITY\nCAREER\nTOOLS\nCAREER\nTOOLS\nCAREER\nTOOLS\nwww.codsoft.in",
+    "preview": "ASK US FOR HELP!\nTHE PURPOSE OF THIS INTERNSHIP IS TO LEARN AND GROW.\n WE HAVE NO DESIRE TO DICTATE TO YOU. IT IS ENTIRELY UP TO YOU\nWHETHER YOU SEEK GUIDANCE OR NOT.\n THE GIVEN TASKS MAY SEEM VERY EASY OR VERY DIFFICULT. WE\nEXPECT YOU TO APPROACH THE TASKS WITH PROFESSIONAL\nDILIGENCE AND GIVE THEM "
+  },
+  {
+    "file": "Artificial Intelligence.pdf",
+    "page": 13,
+    "text": "GET SOCIAL WITH US\nCodSoft\nwww.codsoft.in\ncontact@codsoft.in\nAccelerate Your Growth with\nOur Career Tools\nResume Builder\nCheck ATS Score\nAI Interview Coach\nCareer Roadmap Generator\nPortfolio Builder\nBook 1-on-1 Session\nInterview Prep\nCodSoftAI\nwww.codsoft.in",
+    "preview": "GET SOCIAL WITH US\nCodSoft\nwww.codsoft.in\ncontact@codsoft.in\nAccelerate Your Growth with\nOur Career Tools\nResume Builder\nCheck ATS Score\nAI Interview Coach\nCareer Roadmap Generator\nPortfolio Builder\nBook 1-on-1 Session\nInterview Prep\nCodSoftAI\nwww.codsoft.in"
+  }
+]
